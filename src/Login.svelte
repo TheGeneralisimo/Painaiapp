@@ -27,4 +27,5 @@
 
 <button class="login" on:click={login}>Entrar</button>
 <button class="login"  on:click={signup}>Inscribirme</button>
-  
+<h1>Bienvenidos a Painaiapp</h1>
+<h2>Mensajero secreto, se recomiendo operar con navegador TOR o red proxy, red VPN<h2>
