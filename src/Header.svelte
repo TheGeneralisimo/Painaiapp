@@ -20,6 +20,6 @@
 
     {:else}
 
-      <h3>UAEH</h3>
+      <h3>XPOCET 2022</h3>
   {/if}
 </header>
