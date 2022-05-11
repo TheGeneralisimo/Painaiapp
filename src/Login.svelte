@@ -27,5 +27,5 @@
 
 <button class="login" on:click={login}>Entrar</button>
 <button class="login"  on:click={signup}>Inscribirme</button>
-<img src={'/favicon.png'} width="1000px" alt="Mensajero secreto">
+<img src={'/favicon.png'} width="100%" alt="Mensajero secreto">
   
